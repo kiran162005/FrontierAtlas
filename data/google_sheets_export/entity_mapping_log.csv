@@ -1,0 +1,530 @@
+﻿dataset,source_url,extracted_entity,extracted_type,canonical_id,canonical_name,match_score,match_status,match_method,mapped_at
+startups,https://www.ycombinator.com/companies/icracked,iCracked,company,,,56.25,unmatched,none,2026-11-22T05:31:04.902366+00:00
+startups,https://www.ycombinator.com/companies/42floors,42Floors,company,,,55.38,unmatched,none,2026-11-22T05:31:04.903017+00:00
+startups,https://www.ycombinator.com/companies/42floors,Knotel,company,,,45.0,unmatched,none,2026-11-22T05:31:04.903634+00:00
+startups,https://www.ycombinator.com/companies/plangrid,PlanGrid,company,,,51.43,unmatched,none,2026-11-22T05:31:04.904239+00:00
+startups,https://www.ycombinator.com/companies/plangrid,Y Combinator,organization,company_ycombinator,Y Combinator,100,auto_matched,exact,2026-11-22T05:31:04.904846+00:00
+startups,https://www.ycombinator.com/companies/plangrid,Sequoia Capital,organization,,,65.45,unmatched,none,2026-11-22T05:31:04.905538+00:00
+startups,https://www.ycombinator.com/companies/plangrid,Tenaya Capital,organization,,,65.45,unmatched,none,2026-11-22T05:31:04.906196+00:00
+startups,https://www.ycombinator.com/companies/sendhub,SendHub,company,,,60.0,unmatched,none,2026-11-22T05:31:04.906787+00:00
+startups,https://www.ycombinator.com/companies/sendhub,Y-Combinator,organization,company_ycombinator,Y Combinator,100,auto_matched,exact,2026-11-22T05:31:04.907393+00:00
+startups,https://www.ycombinator.com/companies/sendhub,Menlo Ventures,company,,,60.0,unmatched,none,2026-11-22T05:31:04.908062+00:00
+startups,https://www.ycombinator.com/companies/sendhub,Kapor Capital,company,,,65.45,unmatched,none,2026-11-22T05:31:04.908679+00:00
+startups,https://www.ycombinator.com/companies/sendhub,500 Startups,company,,,45.0,unmatched,none,2026-11-22T05:31:04.909289+00:00
+startups,https://www.ycombinator.com/companies/sendhub,Seraph Group,company,,,51.43,unmatched,none,2026-11-22T05:31:04.909910+00:00
+startups,https://www.ycombinator.com/companies/sendhub,Paul Buchheit,person,,,0,unmatched,none,2026-11-22T05:31:04.909961+00:00
+startups,https://www.ycombinator.com/companies/sendhub,Eric Ries,person,,,0,unmatched,none,2026-11-22T05:31:04.910010+00:00
+startups,https://www.ycombinator.com/companies/sendhub,Jawed Karim,person,,,0,unmatched,none,2026-11-22T05:31:04.910057+00:00
+startups,https://www.ycombinator.com/companies/sendhub,Jeb Bush,person,,,0,unmatched,none,2026-11-22T05:31:04.910116+00:00
+startups,https://www.ycombinator.com/companies/sendhub,online business SMS messaging solution,product,,,57.0,unmatched,none,2026-11-22T05:31:04.911216+00:00
+startups,https://www.ycombinator.com/companies/hipmob,Hipmob,company,,,40.0,unmatched,none,2026-11-22T05:31:04.911885+00:00
+startups,https://www.ycombinator.com/companies/hireart,HireArt,company,,,51.43,unmatched,none,2026-11-22T05:31:04.912495+00:00
+startups,https://www.ycombinator.com/companies/hireart,Facebook,company,,,60.0,unmatched,none,2026-11-22T05:31:04.913079+00:00
+startups,https://www.ycombinator.com/companies/hireart,Airbnb,company,company_airbnb,Airbnb,100,auto_matched,exact,2026-11-22T05:31:04.913669+00:00
+startups,https://www.ycombinator.com/companies/hireart,Waymo,company,,,64.12,unmatched,none,2026-11-22T05:31:04.914282+00:00
+products,https://raw.githubusercontent.com/tioraicom/ai-tools-dataset/main/data/ai-tools.json,008,product,,,0,unmatched,none,2026-11-22T05:31:04.914974+00:00
+products,https://raw.githubusercontent.com/tioraicom/ai-tools-dataset/main/data/ai-tools.json,0ptikube,product,,,42.75,unmatched,none,2026-11-22T05:31:04.915586+00:00
+products,https://raw.githubusercontent.com/tioraicom/ai-tools-dataset/main/data/ai-tools.json,101.school,product,,,45.0,unmatched,none,2026-11-22T05:31:04.916202+00:00
+products,https://raw.githubusercontent.com/tioraicom/ai-tools-dataset/main/data/ai-tools.json,10x Rules,product,,,40.0,unmatched,none,2026-11-22T05:31:04.916798+00:00
+products,https://raw.githubusercontent.com/tioraicom/ai-tools-dataset/main/data/ai-tools.json,10xWinners OKR,product,,,60.0,unmatched,none,2026-11-22T05:31:04.917378+00:00
+products,https://raw.githubusercontent.com/tioraicom/ai-tools-dataset/main/data/ai-tools.json,123Colorize,product,,,51.43,unmatched,none,2026-11-22T05:31:04.917922+00:00
+products,https://raw.githubusercontent.com/tioraicom/ai-tools-dataset/main/data/ai-tools.json,123kanfang.com,product,,,45.0,unmatched,none,2026-11-22T05:31:04.918484+00:00
+products,https://raw.githubusercontent.com/tioraicom/ai-tools-dataset/main/data/ai-tools.json,12min,product,,,60.0,unmatched,none,2026-11-22T05:31:04.919085+00:00
+products,https://raw.githubusercontent.com/tioraicom/ai-tools-dataset/main/data/ai-tools.json,1440 - Time on Purpose,product,,,50.0,unmatched,none,2026-11-22T05:31:04.919810+00:00
+products,https://raw.githubusercontent.com/tioraicom/ai-tools-dataset/main/data/ai-tools.json,1440.io,product,,,38.57,unmatched,none,2026-11-22T05:31:04.920389+00:00
+research_papers,https://arxiv.org/abs/2611.26624v1,PlayCraft,technology,,,0,unmatched,none,2026-11-22T05:31:04.920443+00:00
+research_papers,https://arxiv.org/abs/2611.26624v1,Weihao Cheng,person,,,0,unmatched,none,2026-11-22T05:31:04.920492+00:00
+research_papers,https://arxiv.org/abs/2611.26624v1,Vision-based agent,technology,,,0,unmatched,none,2026-11-22T05:31:04.920538+00:00
+research_papers,https://arxiv.org/abs/2611.26624v1,Player agent,technology,,,0,unmatched,none,2026-11-22T05:31:04.920584+00:00
+research_papers,https://arxiv.org/abs/2611.26624v1,Crafter agent,technology,,,0,unmatched,none,2026-11-22T05:31:04.920630+00:00
+research_papers,https://arxiv.org/abs/2611.26617v1,O$^{2}$LaF,other,,,0,unmatched,none,2026-11-22T05:31:04.920680+00:00
+research_papers,https://arxiv.org/abs/2611.26617v1,DiT,technology,,,0,unmatched,none,2026-11-22T05:31:04.920727+00:00
+research_papers,https://arxiv.org/abs/2611.26617v1,V-JEPA2,technology,,,0,unmatched,none,2026-11-22T05:31:04.920776+00:00
+research_papers,https://arxiv.org/abs/2611.26617v1,Yuxin Jiang,person,,,0,unmatched,none,2026-11-22T05:31:04.920823+00:00
+research_papers,https://arxiv.org/abs/2611.26617v1,Wenqiang Sun,person,,,0,unmatched,none,2026-11-22T05:31:04.920870+00:00
+research_papers,https://arxiv.org/abs/2611.26617v1,Jiaqi Li,person,,,0,unmatched,none,2026-11-22T05:31:04.920917+00:00
+research_papers,https://arxiv.org/abs/2611.26617v1,Yuchao Gu,person,,,0,unmatched,none,2026-11-22T05:31:04.920964+00:00
+research_papers,https://arxiv.org/abs/2611.26617v1,Lvmin Zhang,person,,,0,unmatched,none,2026-11-22T05:31:04.921010+00:00
+research_papers,https://arxiv.org/abs/2611.26617v1,Ivor Tsang,person,,,0,unmatched,none,2026-11-22T05:31:04.921056+00:00
+research_papers,https://arxiv.org/abs/2611.26617v1,Mike Zheng Shou,person,,,0,unmatched,none,2026-11-22T05:31:04.921107+00:00
+research_papers,https://arxiv.org/abs/2611.26601v1,Amine Lbath,person,,,0,unmatched,none,2026-11-22T05:31:04.921158+00:00
+research_papers,https://arxiv.org/abs/2611.26601v1,Manan Suri,person,,,0,unmatched,none,2026-11-22T05:31:04.921206+00:00
+research_papers,https://arxiv.org/abs/2611.26601v1,Aurelien Delaitre,person,,,0,unmatched,none,2026-11-22T05:31:04.921255+00:00
+research_papers,https://arxiv.org/abs/2611.26601v1,Vadim Okun,person,,,0,unmatched,none,2026-11-22T05:31:04.921303+00:00
+research_papers,https://arxiv.org/abs/2611.26601v1,Massih‑Reza Amini,person,,,0,unmatched,none,2026-11-22T05:31:04.921362+00:00
+research_papers,https://arxiv.org/abs/2611.26601v1,Dinesh Manocha,person,,,0,unmatched,none,2026-11-22T05:31:04.921410+00:00
+research_papers,https://arxiv.org/abs/2611.26601v1,LLM-based agents,technology,,,0,unmatched,none,2026-11-22T05:31:04.921461+00:00
+research_papers,https://arxiv.org/abs/2611.26601v1,Open‑weight models,technology,,,0,unmatched,none,2026-11-22T05:31:04.921512+00:00
+research_papers,https://arxiv.org/abs/2611.26601v1,Restricted frontier models,technology,,,0,unmatched,none,2026-11-22T05:31:04.921561+00:00
+research_papers,https://arxiv.org/abs/2611.26601v1,Autonomy scale modeled on driving automation,technology,,,0,unmatched,none,2026-11-22T05:31:04.921614+00:00
+research_papers,https://arxiv.org/abs/2611.26596v1,PGX,technology,,,0,unmatched,none,2026-11-22T05:31:04.921663+00:00
+research_papers,https://arxiv.org/abs/2611.26596v1,Unitree G1,product,,,43.48,unmatched,none,2026-11-22T05:31:04.922270+00:00
+research_papers,https://arxiv.org/abs/2611.26596v1,VLA,technology,,,0,unmatched,none,2026-11-22T05:31:04.922320+00:00
+research_papers,https://arxiv.org/abs/2611.26596v1,Predicate‑based state machine,technology,,,0,unmatched,none,2026-11-22T05:31:04.922373+00:00
+research_papers,https://arxiv.org/abs/2611.26596v1,World‑coordinate locking (WCL),technology,,,0,unmatched,none,2026-11-22T05:31:04.922429+00:00
+research_papers,https://arxiv.org/abs/2611.26590v1,Multimodal Concept Lens (MC‑Lens),technology,,,0,unmatched,none,2026-11-22T05:31:04.922483+00:00
+research_papers,https://arxiv.org/abs/2611.26590v1,Vision‑language models (VLMs),technology,,,0,unmatched,none,2026-11-22T05:31:04.922536+00:00
+research_papers,https://arxiv.org/abs/2611.26590v1,Global workspace theory (GWT),technology,,,0,unmatched,none,2026-11-22T05:31:04.922588+00:00
+research_papers,https://arxiv.org/abs/2611.26590v1,Jiahao Huang,person,,,0,unmatched,none,2026-11-22T05:31:04.922638+00:00
+research_papers,https://arxiv.org/abs/2611.26590v1,Jun Wang,person,,,0,unmatched,none,2026-11-22T05:31:04.922690+00:00
+research_papers,https://arxiv.org/abs/2611.26588v1,Ana E. Sanchez Villalobos,person,,,0,unmatched,none,2026-11-22T05:31:04.922742+00:00
+research_papers,https://arxiv.org/abs/2611.26588v1,Michael D. Quinn,person,,,0,unmatched,none,2026-11-22T05:31:04.923366+00:00
+research_papers,https://arxiv.org/abs/2611.26588v1,Aakash Tyagi,person,,,0,unmatched,none,2026-11-22T05:31:04.923416+00:00
+research_papers,https://arxiv.org/abs/2611.26588v1,Minh D. Luu,person,,,0,unmatched,none,2026-11-22T05:31:04.923465+00:00
+research_papers,https://arxiv.org/abs/2611.26588v1,David Kebo Houngninou,person,,,0,unmatched,none,2026-11-22T05:31:04.923516+00:00
+research_papers,https://arxiv.org/abs/2611.26588v1,Verify the Verifier,product,,,54.0,unmatched,none,2026-11-22T05:31:04.924229+00:00
+research_papers,https://arxiv.org/abs/2611.26588v1,OpenTitan IPs,organization,,,75.0,unmatched,none,2026-11-22T05:31:04.924832+00:00
+research_papers,https://arxiv.org/abs/2611.26586v1,ProtoDiffusion,technology,,,0,unmatched,none,2026-11-22T05:31:04.924883+00:00
+research_papers,https://arxiv.org/abs/2611.26586v1,ProtoVAE,technology,,,0,unmatched,none,2026-11-22T05:31:04.924930+00:00
+research_papers,https://arxiv.org/abs/2611.26586v1,LayerD,technology,,,0,unmatched,none,2026-11-22T05:31:04.924981+00:00
+research_papers,https://arxiv.org/abs/2611.26586v1,FLUX.2,technology,,,0,unmatched,none,2026-11-22T05:31:04.925029+00:00
+research_papers,https://arxiv.org/abs/2611.26586v1,Adrià Ciurana Lanau,person,,,0,unmatched,none,2026-11-22T05:31:04.925080+00:00
+research_papers,https://arxiv.org/abs/2611.26586v1,Harleen Hanspal,person,,,0,unmatched,none,2026-11-22T05:31:04.925128+00:00
+research_papers,https://arxiv.org/abs/2611.26586v1,Lusine Abrahamyan,person,,,0,unmatched,none,2026-11-22T05:31:04.925179+00:00
+research_papers,https://arxiv.org/abs/2611.26586v1,Emilio Tylson Baixauli,person,,,0,unmatched,none,2026-11-22T05:31:04.925227+00:00
+research_papers,https://arxiv.org/abs/2611.26586v1,Yu Cao,person,,,0,unmatched,none,2026-11-22T05:31:04.925275+00:00
+research_papers,https://arxiv.org/abs/2611.26586v1,Danai Triantafyllidou,person,,,0,unmatched,none,2026-11-22T05:31:04.925321+00:00
+research_papers,https://arxiv.org/abs/2611.26586v1,Stefano Zorzi,person,,,0,unmatched,none,2026-11-22T05:31:04.925368+00:00
+research_papers,https://arxiv.org/abs/2611.26586v1,Gustavo Zanoni Felipe,person,,,0,unmatched,none,2026-11-22T05:31:04.925423+00:00
+research_papers,https://arxiv.org/abs/2611.26586v1,Peter Griger,person,,,0,unmatched,none,2026-11-22T05:31:04.925471+00:00
+research_papers,https://arxiv.org/abs/2611.26586v1,Stefan Sietzen,person,,,0,unmatched,none,2026-11-22T05:31:04.925521+00:00
+research_papers,https://arxiv.org/abs/2611.26586v1,Petru-Daniel Tudosiu,person,,,0,unmatched,none,2026-11-22T05:31:04.925573+00:00
+research_papers,https://arxiv.org/abs/2611.26564v1,GEOHunter,technology,,,0,unmatched,none,2026-11-22T05:31:04.925650+00:00
+research_papers,https://arxiv.org/abs/2611.26564v1,Generative Engine Optimization (GEO) services,technology,,,0,unmatched,none,2026-11-22T05:31:04.925704+00:00
+research_papers,https://arxiv.org/abs/2611.26564v1,Chinese UGC platforms,organization,company_meta,Meta,85.5,review_required,fuzzy,2026-11-22T05:31:04.926486+00:00
+research_papers,https://arxiv.org/abs/2611.26564v1,Generative engines,technology,,,0,unmatched,none,2026-11-22T05:31:04.926541+00:00
+research_papers,https://arxiv.org/abs/2611.26564v1,Paid‑content operation network,organization,,,64.29,unmatched,none,2026-11-22T05:31:04.927587+00:00
+research_papers,https://arxiv.org/abs/2611.26564v1,Sean Tang,person,,,0,unmatched,none,2026-11-22T05:31:04.927662+00:00
+research_papers,https://arxiv.org/abs/2611.26564v1,Peiran Wang,person,,,0,unmatched,none,2026-11-22T05:31:04.927732+00:00
+research_papers,https://arxiv.org/abs/2611.26564v1,Ying Li,person,,,0,unmatched,none,2026-11-22T05:31:04.927806+00:00
+research_papers,https://arxiv.org/abs/2611.26564v1,Esha Shivakumar,person,,,0,unmatched,none,2026-11-22T05:31:04.927868+00:00
+research_papers,https://arxiv.org/abs/2611.26564v1,Tao Meng,person,,,0,unmatched,none,2026-11-22T05:31:04.927934+00:00
+research_papers,https://arxiv.org/abs/2611.26564v1,Yuan Tian,person,,,0,unmatched,none,2026-11-22T05:31:04.927998+00:00
+news,https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/,Levent Alpöge,person,,,0,unmatched,none,2026-11-22T05:31:04.928067+00:00
+news,https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/,Anthropic,company,company_anthropic,Anthropic,100,auto_matched,exact,2026-11-22T05:31:04.928631+00:00
+news,https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/,Dario Amodei,person,,,0,unmatched,none,2026-11-22T05:31:04.928684+00:00
+news,https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/,Chris Birkbeck,person,,,0,unmatched,none,2026-11-22T05:31:04.928733+00:00
+news,https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/,University of East Anglia,organization,,,53.44,unmatched,none,2026-11-22T05:31:04.929571+00:00
+news,https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/,MIT,organization,,,72.0,unmatched,none,2026-11-22T05:31:04.930182+00:00
+news,https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/,Alpöge,person,,,0,unmatched,none,2026-11-22T05:31:04.930235+00:00
+news,https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/,Andrew Sutherland,person,,,0,unmatched,none,2026-11-22T05:31:04.930284+00:00
+news,https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/,Tristan Buckmaster,person,,,0,unmatched,none,2026-11-22T05:31:04.930334+00:00
+news,https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/,Ravi Vakil,person,,,0,unmatched,none,2026-11-22T05:31:04.930381+00:00
+news,https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/,Alessandro Masullo,person,,,0,unmatched,none,2026-11-22T05:31:04.930430+00:00
+news,https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/,Lean,technology,,,0,unmatched,none,2026-11-22T05:31:04.930478+00:00
+news,https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/,Zulip chat,technology,,,0,unmatched,none,2026-11-22T05:31:04.930531+00:00
+news,https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/,Navier‑Stokes equations,other,,,0,unmatched,none,2026-11-22T05:31:04.930584+00:00
+news,https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/,General Riemann hypothesis,other,,,0,unmatched,none,2026-11-22T05:31:04.930633+00:00
+news,https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/,Google,company,company_google,Google,100,auto_matched,exact,2026-11-22T05:31:04.931206+00:00
+news,https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/,AI chat history,technology,,,0,unmatched,none,2026-11-22T05:31:04.931256+00:00
+news,https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/,Meta,company,company_meta,Meta,100,auto_matched,exact,2026-11-22T05:31:04.931842+00:00
+news,https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/,Researcher,person,,,0,unmatched,none,2026-11-22T05:31:04.931890+00:00
+news,https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/,2m canaries,product,,,42.86,unmatched,none,2026-11-22T05:31:04.932488+00:00
+news,https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/,AI supply chain,technology,,,0,unmatched,none,2026-11-22T05:31:04.932539+00:00
+news,https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/,Privacy disaster,other,,,0,unmatched,none,2026-11-22T05:31:04.932588+00:00
+jobs,https://himalayas.app/companies/recruitee/jobs/content-engineer?utm_source=api,Recruitee,company,,,45.0,unmatched,none,2026-11-22T05:31:04.933119+00:00
+jobs,https://himalayas.app/companies/recruitee/jobs/content-engineer?utm_source=api,Aikido,company,,,72.0,unmatched,none,2026-11-22T05:31:04.933679+00:00
+jobs,https://himalayas.app/companies/recruitee/jobs/content-engineer?utm_source=api,Himalayas,other,,,0,unmatched,none,2026-11-22T05:31:04.933731+00:00
+jobs,https://himalayas.app/companies/caci-international-inc/jobs/project-manager-advanced-manufacturing?utm_source=api,CACI International Inc,company,company_apple,Apple,85.5,review_required,fuzzy,2026-11-22T05:31:04.934552+00:00
+jobs,https://himalayas.app/companies/caci-international-inc/jobs/project-manager-advanced-manufacturing?utm_source=api,Submarine Industrial Base Support Program,organization,,,64.29,unmatched,none,2026-11-22T05:31:04.935628+00:00
+jobs,https://himalayas.app/companies/caci-international-inc/jobs/project-manager-advanced-manufacturing?utm_source=api,Industry 4.0,technology,,,0,unmatched,none,2026-11-22T05:31:04.935681+00:00
+jobs,https://himalayas.app/companies/caci-international-inc/jobs/project-manager-advanced-manufacturing?utm_source=api,CACI,company,,,67.5,unmatched,none,2026-11-22T05:31:04.936291+00:00
+jobs,https://himalayas.app/companies/caci-international-inc/jobs/project-manager-advanced-manufacturing?utm_source=api,Palantir Foundry,technology,,,0,unmatched,none,2026-11-22T05:31:04.936343+00:00
+jobs,https://himalayas.app/companies/caci-international-inc/jobs/project-manager-advanced-manufacturing?utm_source=api,Smartsheet,technology,,,0,unmatched,none,2026-11-22T05:31:04.936390+00:00
+jobs,https://himalayas.app/companies/caci-international-inc/jobs/project-manager-advanced-manufacturing?utm_source=api,SharePoint,technology,,,0,unmatched,none,2026-11-22T05:31:04.936437+00:00
+jobs,https://himalayas.app/companies/caci-international-inc/jobs/project-manager-advanced-manufacturing?utm_source=api,Microsoft 365,technology,,,0,unmatched,none,2026-11-22T05:31:04.936484+00:00
+jobs,https://himalayas.app/companies/caci-international-inc/jobs/project-manager-advanced-manufacturing?utm_source=api,Asana,technology,,,0,unmatched,none,2026-11-22T05:31:04.936531+00:00
+jobs,https://himalayas.app/companies/caci-international-inc/jobs/project-manager-advanced-manufacturing?utm_source=api,United States Navy,organization,,,54.0,unmatched,none,2026-11-22T05:31:04.937280+00:00
+jobs,https://himalayas.app/companies/caci-international-inc/jobs/project-manager-advanced-manufacturing?utm_source=api,Department of Defense,organization,,,67.5,unmatched,none,2026-11-22T05:31:04.938029+00:00
+jobs,https://himalayas.app/companies/caci-international-inc/jobs/project-manager-advanced-manufacturing?utm_source=api,Submarine Industrial Base,other,,,0,unmatched,none,2026-11-22T05:31:04.938078+00:00
+jobs,https://himalayas.app/companies/emc-insurance/jobs/underwriting-associate-specialty?utm_source=api,EMC Insurance,company,,,52.17,unmatched,none,2026-11-22T05:31:04.938675+00:00
+jobs,https://himalayas.app/companies/emc-insurance/jobs/underwriting-associate-specialty?utm_source=api,CAB,technology,,,0,unmatched,none,2026-11-22T05:31:04.938725+00:00
+jobs,https://himalayas.app/companies/emc-insurance/jobs/underwriting-associate-specialty?utm_source=api,OSHA,technology,,,0,unmatched,none,2026-11-22T05:31:04.938772+00:00
+jobs,https://himalayas.app/companies/emc-insurance/jobs/underwriting-associate-specialty?utm_source=api,Betterview,technology,,,0,unmatched,none,2026-11-22T05:31:04.938823+00:00
+jobs,https://himalayas.app/companies/emc-insurance/jobs/underwriting-associate-specialty?utm_source=api,Microsoft products,technology,,,0,unmatched,none,2026-11-22T05:31:04.938874+00:00
+jobs,https://himalayas.app/companies/emc-insurance/jobs/underwriting-associate-specialty?utm_source=api,Underwriting Associate‑Specialty,other,,,0,unmatched,none,2026-11-22T05:31:04.938923+00:00
+jobs,https://himalayas.app/companies/bright-vision-technologies/jobs/senior-data-scientist-8127940440?utm_source=api,Bright Vision Technologies,company,company_uber,Uber,85.5,review_required,fuzzy,2026-11-22T05:31:04.939753+00:00
+jobs,https://himalayas.app/companies/bright-vision-technologies/jobs/senior-data-scientist-8127940440?utm_source=api,Senior Data Scientist,other,,,0,unmatched,none,2026-11-22T05:31:04.939807+00:00
+jobs,https://himalayas.app/companies/bright-vision-technologies/jobs/senior-data-scientist-8127940440?utm_source=api,BV Teck,company,,,64.29,unmatched,none,2026-11-22T05:31:04.940393+00:00
+jobs,https://himalayas.app/companies/computrition-inc/jobs/professional-service-consultant?utm_source=api,"Computrition, Inc.",company,company_apple,Apple,85.5,review_required,fuzzy,2026-11-22T05:31:04.941023+00:00
+jobs,https://himalayas.app/companies/computrition-inc/jobs/professional-service-consultant?utm_source=api,Dark Matter Technologies,company,,,78.62,unmatched,none,2026-11-22T05:31:04.941844+00:00
+jobs,https://himalayas.app/companies/languageline-solutions/jobs/chin-tedim-interpreter?utm_source=api,LanguageLine Solutions,company,,,52.94,unmatched,none,2026-11-22T05:31:04.942593+00:00
+jobs,https://himalayas.app/companies/languageline-solutions/jobs/chin-tedim-interpreter?utm_source=api,ASTM,technology,,,0,unmatched,none,2026-11-22T05:31:04.942644+00:00
+jobs,https://himalayas.app/companies/languageline-solutions/jobs/chin-tedim-interpreter?utm_source=api,ISO,technology,,,0,unmatched,none,2026-11-22T05:31:04.942691+00:00
+jobs,https://himalayas.app/companies/languageline-solutions/jobs/chin-tedim-interpreter?utm_source=api,Line Solutions,company,,,58.33,unmatched,none,2026-11-22T05:31:04.943304+00:00
+jobs,https://himalayas.app/companies/languageline-solutions/jobs/chin-tedim-interpreter?utm_source=api,LLS,company,,,60.0,unmatched,none,2026-11-22T05:31:04.943911+00:00
+jobs,https://himalayas.app/companies/languageline-solutions/jobs/chin-tedim-interpreter?utm_source=api,Himalayas,other,,,0,unmatched,none,2026-11-22T05:31:04.943960+00:00
+jobs,https://himalayas.app/companies/datacor/jobs/senior-talent-acquisition-specialist?utm_source=api,Datacor,company,,,65.45,unmatched,none,2026-11-22T05:31:04.944514+00:00
+jobs,https://himalayas.app/companies/datacor/jobs/senior-talent-acquisition-specialist?utm_source=api,Senior Talent Acquisition Specialist,other,,,0,unmatched,none,2026-11-22T05:31:04.944570+00:00
+jobs,https://himalayas.app/companies/datacor/jobs/senior-talent-acquisition-specialist?utm_source=api,Greenhouse,technology,,,0,unmatched,none,2026-11-22T05:31:04.944618+00:00
+jobs,https://himalayas.app/companies/datacor/jobs/senior-talent-acquisition-specialist?utm_source=api,Workday,technology,,,0,unmatched,none,2026-11-22T05:31:04.944666+00:00
+jobs,https://himalayas.app/companies/datacor/jobs/senior-talent-acquisition-specialist?utm_source=api,LinkedIn,technology,,,0,unmatched,none,2026-11-22T05:31:04.944714+00:00
+jobs,https://himalayas.app/companies/datacor/jobs/senior-talent-acquisition-specialist?utm_source=api,AI,technology,,,0,unmatched,none,2026-11-22T05:31:04.944761+00:00
+jobs,https://himalayas.app/companies/datacor/jobs/senior-talent-acquisition-specialist?utm_source=api,Microsoft Office,technology,,,0,unmatched,none,2026-11-22T05:31:04.944810+00:00
+jobs,https://himalayas.app/companies/datacor/jobs/senior-talent-acquisition-specialist?utm_source=api,Himalayas,other,,,0,unmatched,none,2026-11-22T05:31:04.944857+00:00
+jobs,https://himalayas.app/companies/navex/jobs/communication-specialist?utm_source=api,NAVEX,company,,,51.43,unmatched,none,2026-11-22T05:31:04.945435+00:00
+jobs,https://himalayas.app/companies/navex/jobs/communication-specialist?utm_source=api,Hotline & Incident Management services,product,,,60.0,unmatched,none,2026-11-22T05:31:04.946374+00:00
+jobs,https://himalayas.app/companies/navex/jobs/communication-specialist?utm_source=api,Contact Center team,organization,,,51.61,unmatched,none,2026-11-22T05:31:04.947112+00:00
+jobs,https://himalayas.app/companies/navex/jobs/communication-specialist?utm_source=api,MS Office,technology,,,0,unmatched,none,2026-11-22T05:31:04.947162+00:00
+jobs,https://himalayas.app/companies/navex/jobs/communication-specialist?utm_source=api,AI,technology,,,0,unmatched,none,2026-11-22T05:31:04.947209+00:00
+jobs,https://himalayas.app/companies/navex/jobs/communication-specialist?utm_source=api,Himalayas,other,,,0,unmatched,none,2026-11-22T05:31:04.947256+00:00
+startups,https://www.ycombinator.com/companies/myvr,MyVR,company,,,45.0,unmatched,none,2026-11-22T05:31:04.947848+00:00
+startups,https://www.ycombinator.com/companies/amiato,Amiato,company,,,66.67,unmatched,none,2026-11-22T05:31:04.948425+00:00
+startups,https://www.ycombinator.com/companies/amiato,MongoDB,company,,,49.09,unmatched,none,2026-11-22T05:31:04.949181+00:00
+startups,https://www.ycombinator.com/companies/amiato,CouchBase,company,,,60.0,unmatched,none,2026-11-22T05:31:04.949740+00:00
+startups,https://www.ycombinator.com/companies/medigram,Medigram,company,,,60.0,unmatched,none,2026-11-22T05:31:04.950302+00:00
+startups,https://www.ycombinator.com/companies/medigram,Mobile Intelligence For Healthcare,product,,,59.38,unmatched,none,2026-11-22T05:31:04.952433+00:00
+startups,https://www.ycombinator.com/companies/couple,Couple,startup,,,60.0,unmatched,none,2026-11-22T05:31:04.953050+00:00
+startups,https://www.ycombinator.com/companies/couple,TenthBit Inc.,company,,,60.0,unmatched,none,2026-11-22T05:31:04.953723+00:00
+startups,https://www.ycombinator.com/companies/couple,YC program,organization,company_ycombinator,Y Combinator,90.0,review_required,fuzzy,2026-11-22T05:31:04.954304+00:00
+startups,https://www.ycombinator.com/companies/rescale,Rescale,company,,,83.33,unmatched,none,2026-11-22T05:31:04.956118+00:00
+products,https://harpd.com/rank/imgkit-86d32f3e/,imgkit,product,,,60.0,unmatched,none,2026-11-22T05:31:04.956963+00:00
+products,https://harpd.com/rank/claude/,Claude,product,product_claude,Claude,100,auto_matched,exact,2026-11-22T05:31:04.958579+00:00
+products,https://harpd.com/rank/perplexity/,Perplexity,product,product_perplexity,Perplexity,100,auto_matched,exact,2026-11-22T05:31:04.959296+00:00
+products,https://harpd.com/rank/gemini/,Gemini,product,product_gemini,Gemini,100,auto_matched,exact,2026-11-22T05:31:04.960382+00:00
+products,https://harpd.com/rank/poe/,Poe,product,,,72.0,unmatched,none,2026-11-22T05:31:04.962143+00:00
+products,https://harpd.com/rank/langchain/,LangChain,product,product_langchain,LangChain,100,auto_matched,exact,2026-11-22T05:31:04.962789+00:00
+products,https://harpd.com/rank/llamaindex/,LlamaIndex,product,product_llama,Llama,90.0,review_required,fuzzy,2026-11-22T05:31:04.963525+00:00
+products,https://harpd.com/rank/crewai/,CrewAI,product,,,54.0,unmatched,none,2026-11-22T05:31:04.964420+00:00
+products,https://harpd.com/rank/n8n/,n8n,product,,,45.0,unmatched,none,2026-11-22T05:31:04.965512+00:00
+products,https://harpd.com/rank/cursor/,Cursor,product,product_cursor,Cursor,100,auto_matched,exact,2026-11-22T05:31:04.966459+00:00
+research_papers,https://arxiv.org/abs/2611.26598v1,Active Feature Acquisition,technology,,,0,unmatched,none,2026-11-22T05:31:04.966524+00:00
+research_papers,https://arxiv.org/abs/2611.26598v1,AFA,technology,,,0,unmatched,none,2026-11-22T05:31:04.966573+00:00
+research_papers,https://arxiv.org/abs/2611.26598v1,oracle teacher,technology,,,0,unmatched,none,2026-11-22T05:31:04.966620+00:00
+research_papers,https://arxiv.org/abs/2611.26598v1,Active Feature Acquisition (AFA),technology,,,0,unmatched,none,2026-11-22T05:31:04.966672+00:00
+research_papers,https://arxiv.org/abs/2611.26598v1,OracleImitator,technology,,,0,unmatched,none,2026-11-22T05:31:04.966721+00:00
+research_papers,https://arxiv.org/abs/2611.26598v1,teacher,other,,,0,unmatched,none,2026-11-22T05:31:04.966769+00:00
+research_papers,https://arxiv.org/abs/2611.26598v1,downstream predictor,technology,,,0,unmatched,none,2026-11-22T05:31:04.966819+00:00
+research_papers,https://arxiv.org/abs/2611.26598v1,OracleImitator,product,,,77.14,unmatched,none,2026-11-22T05:31:04.967434+00:00
+research_papers,https://arxiv.org/abs/2611.26598v1,OracleImitator,other,,,0,unmatched,none,2026-11-22T05:31:04.967491+00:00
+research_papers,https://arxiv.org/abs/2611.26598v1,Yang Meng,person,,,0,unmatched,none,2026-11-22T05:31:04.967544+00:00
+research_papers,https://arxiv.org/abs/2611.26598v1,Zixin Ding,person,,,0,unmatched,none,2026-11-22T05:31:04.967593+00:00
+research_papers,https://arxiv.org/abs/2611.26598v1,Robert L. Grossman,person,,,0,unmatched,none,2026-11-22T05:31:04.967646+00:00
+research_papers,https://arxiv.org/abs/2611.26598v1,Yuxin Chen,person,,,0,unmatched,none,2026-11-22T05:31:04.967702+00:00
+research_papers,https://arxiv.org/abs/2611.26598v1,AFABench benchmark,other,,,0,unmatched,none,2026-11-22T05:31:04.967752+00:00
+research_papers,https://arxiv.org/abs/2611.26598v1,multimodal medical diagnosis,other,,,0,unmatched,none,2026-11-22T05:31:04.967816+00:00
+research_papers,https://arxiv.org/abs/2611.26562v1,Barrett's esophagus dysplasia grading,other,,,0,unmatched,none,2026-11-22T05:31:04.967872+00:00
+research_papers,https://arxiv.org/abs/2611.26562v1,Foundation model-based deep learning system,technology,,,0,unmatched,none,2026-11-22T05:31:04.967945+00:00
+research_papers,https://arxiv.org/abs/2611.26562v1,Multiple instance learning,technology,,,0,unmatched,none,2026-11-22T05:31:04.967998+00:00
+research_papers,https://arxiv.org/abs/2611.26562v1,H&E‑stained whole slide images,technology,,,0,unmatched,none,2026-11-22T05:31:04.968059+00:00
+research_papers,https://arxiv.org/abs/2611.26562v1,Four institutions,organization,,,51.43,unmatched,none,2026-11-22T05:31:04.968777+00:00
+research_papers,https://arxiv.org/abs/2611.26562v1,Amirali Khosravi,person,,,0,unmatched,none,2026-11-22T05:31:04.968838+00:00
+research_papers,https://arxiv.org/abs/2611.26562v1,Jaidip M. Jagtap,person,,,0,unmatched,none,2026-11-22T05:31:04.968891+00:00
+research_papers,https://arxiv.org/abs/2611.26562v1,D. Chamil Codipilly,person,,,0,unmatched,none,2026-11-22T05:31:04.968940+00:00
+research_papers,https://arxiv.org/abs/2611.26562v1,Catherine E. Hagen,person,,,0,unmatched,none,2026-11-22T05:31:04.968989+00:00
+research_papers,https://arxiv.org/abs/2611.26562v1,Jason T. Lewis,person,,,0,unmatched,none,2026-11-22T05:31:04.969041+00:00
+research_papers,https://arxiv.org/abs/2611.26562v1,Rickey E. Carter,person,,,0,unmatched,none,2026-11-22T05:31:04.969090+00:00
+research_papers,https://arxiv.org/abs/2611.26562v1,Shahriar Faghani,person,,,0,unmatched,none,2026-11-22T05:31:04.969142+00:00
+research_papers,https://arxiv.org/abs/2611.26562v1,Vani J. A. Konda,person,,,0,unmatched,none,2026-11-22T05:31:04.969192+00:00
+research_papers,https://arxiv.org/abs/2611.26562v1,Fouad Otaki,person,,,0,unmatched,none,2026-11-22T05:31:04.969241+00:00
+research_papers,https://arxiv.org/abs/2611.26562v1,Shajan Peter,person,,,0,unmatched,none,2026-11-22T05:31:04.969292+00:00
+research_papers,https://arxiv.org/abs/2611.26562v1,Nicholas Shaheen,person,,,0,unmatched,none,2026-11-22T05:31:04.969343+00:00
+research_papers,https://arxiv.org/abs/2611.26562v1,Sachin Wani,person,,,0,unmatched,none,2026-11-22T05:31:04.969391+00:00
+research_papers,https://arxiv.org/abs/2611.26562v1,Prasad G. Iyer,person,,,0,unmatched,none,2026-11-22T05:31:04.969442+00:00
+research_papers,https://arxiv.org/abs/2611.26562v1,Bradley J. Erickson,person,,,0,unmatched,none,2026-11-22T05:31:04.969493+00:00
+research_papers,https://arxiv.org/abs/2611.26553v1,ROGUE-AI,technology,,,0,unmatched,none,2026-11-22T05:31:04.969547+00:00
+research_papers,https://arxiv.org/abs/2611.26553v1,Mengxiao Wang,person,,,0,unmatched,none,2026-11-22T05:31:04.969599+00:00
+research_papers,https://arxiv.org/abs/2611.26553v1,Mahbub Alam,person,,,0,unmatched,none,2026-11-22T05:31:04.969649+00:00
+research_papers,https://arxiv.org/abs/2611.26553v1,Kalyan Nakka,person,,,0,unmatched,none,2026-11-22T05:31:04.969696+00:00
+research_papers,https://arxiv.org/abs/2611.26553v1,Nitesh Saxena,person,,,0,unmatched,none,2026-11-22T05:31:04.969746+00:00
+research_papers,https://arxiv.org/abs/2611.26553v1,Replit,company,,,62.5,unmatched,none,2026-11-22T05:31:04.970362+00:00
+research_papers,https://arxiv.org/abs/2611.26553v1,GPT,technology,,,0,unmatched,none,2026-11-22T05:31:04.970412+00:00
+research_papers,https://arxiv.org/abs/2611.26553v1,Claude,technology,,,0,unmatched,none,2026-11-22T05:31:04.970459+00:00
+research_papers,https://arxiv.org/abs/2611.26553v1,Gemini,technology,,,0,unmatched,none,2026-11-22T05:31:04.970505+00:00
+research_papers,https://arxiv.org/abs/2611.26553v1,DeepSeek,technology,,,0,unmatched,none,2026-11-22T05:31:04.970554+00:00
+research_papers,https://arxiv.org/abs/2611.26540v1,AURA,product,,,60.0,unmatched,none,2026-11-22T05:31:04.971183+00:00
+research_papers,https://arxiv.org/abs/2611.26540v1,TalkVerse,product,,,48.86,unmatched,none,2026-11-22T05:31:04.971758+00:00
+research_papers,https://arxiv.org/abs/2611.26540v1,KV cache,technology,,,0,unmatched,none,2026-11-22T05:31:04.971811+00:00
+research_papers,https://arxiv.org/abs/2611.26540v1,Distribution Matching Distillation (DMD),technology,,,0,unmatched,none,2026-11-22T05:31:04.971866+00:00
+research_papers,https://arxiv.org/abs/2611.26540v1,Chunk‑wise sliding window causal attention mask,technology,,,0,unmatched,none,2026-11-22T05:31:04.971923+00:00
+research_papers,https://arxiv.org/abs/2611.26540v1,30K synthetic videos dataset,other,,,0,unmatched,none,2026-11-22T05:31:04.971986+00:00
+research_papers,https://arxiv.org/abs/2611.26540v1,Nathaniel Cohen,person,,,0,unmatched,none,2026-11-22T05:31:04.972039+00:00
+research_papers,https://arxiv.org/abs/2611.26540v1,Nicolas Dufour,person,,,0,unmatched,none,2026-11-22T05:31:04.972089+00:00
+research_papers,https://arxiv.org/abs/2611.26540v1,Amélie Royer,person,,,0,unmatched,none,2026-11-22T05:31:04.972141+00:00
+research_papers,https://arxiv.org/abs/2611.26540v1,Alasdair Newson,person,,,0,unmatched,none,2026-11-22T05:31:04.972195+00:00
+research_papers,https://arxiv.org/abs/2611.26540v1,Patrick Pérez,person,,,0,unmatched,none,2026-11-22T05:31:04.972247+00:00
+research_papers,https://arxiv.org/abs/2611.26538v1,LLM GerryMandering: Separating Interactions from Additive Effects in LLM Audits,other,,,0,unmatched,none,2026-11-22T05:31:04.972305+00:00
+research_papers,https://arxiv.org/abs/2611.26538v1,George Rahul,person,,,0,unmatched,none,2026-11-22T05:31:04.972355+00:00
+research_papers,https://arxiv.org/abs/2611.26538v1,Ronit Jahilal,person,,,0,unmatched,none,2026-11-22T05:31:04.972406+00:00
+research_papers,https://arxiv.org/abs/2611.26538v1,Bhaskara Hanuma Vedula,person,,,0,unmatched,none,2026-11-22T05:31:04.972456+00:00
+research_papers,https://arxiv.org/abs/2611.26538v1,Ponnurangam Kumaraguru,person,,,0,unmatched,none,2026-11-22T05:31:04.972508+00:00
+research_papers,https://arxiv.org/abs/2611.26538v1,Pushkar Shukla,person,,,0,unmatched,none,2026-11-22T05:31:04.972558+00:00
+research_papers,https://arxiv.org/abs/2611.26538v1,ADDIS (Additive Intersectional Screen),technology,,,0,unmatched,none,2026-11-22T05:31:04.972610+00:00
+research_papers,https://arxiv.org/abs/2611.26538v1,IndiPersona,product,,,67.5,unmatched,none,2026-11-22T05:31:04.973169+00:00
+research_papers,https://arxiv.org/abs/2611.26538v1,Large Language Models (LLMs),technology,,,0,unmatched,none,2026-11-22T05:31:04.973222+00:00
+research_papers,https://arxiv.org/abs/2611.26531v1,Cost‑Aware Agentic Feature Optimization System for Fleet‑Scale Ranking Models,other,,,0,unmatched,none,2026-11-22T05:31:04.973287+00:00
+research_papers,https://arxiv.org/abs/2611.26531v1,Chang Yang,person,,,0,unmatched,none,2026-11-22T05:31:04.973338+00:00
+research_papers,https://arxiv.org/abs/2611.26531v1,Yao Xuan,person,,,0,unmatched,none,2026-11-22T05:31:04.973389+00:00
+research_papers,https://arxiv.org/abs/2611.26531v1,Wendan Yan,person,,,0,unmatched,none,2026-11-22T05:31:04.973437+00:00
+research_papers,https://arxiv.org/abs/2611.26531v1,Nhat Le,person,,,0,unmatched,none,2026-11-22T05:31:04.973483+00:00
+research_papers,https://arxiv.org/abs/2611.26531v1,Jiang Liu,person,,,0,unmatched,none,2026-11-22T05:31:04.973535+00:00
+research_papers,https://arxiv.org/abs/2611.26531v1,Longhao Jin,person,,,0,unmatched,none,2026-11-22T05:31:04.973585+00:00
+research_papers,https://arxiv.org/abs/2611.26531v1,Zhen Peggy Yao,person,,,0,unmatched,none,2026-11-22T05:31:04.973634+00:00
+research_papers,https://arxiv.org/abs/2611.26531v1,Alireza Vahdatpour,person,,,0,unmatched,none,2026-11-22T05:31:04.973686+00:00
+research_papers,https://arxiv.org/abs/2611.26531v1,Djordje Gligorijevic,person,,,0,unmatched,none,2026-11-22T05:31:04.973739+00:00
+research_papers,https://arxiv.org/abs/2611.26525v1,Origin,product,,,60.0,unmatched,none,2026-11-22T05:31:04.974853+00:00
+research_papers,https://arxiv.org/abs/2611.26525v1,Yicheng Cai,person,,,0,unmatched,none,2026-11-22T05:31:04.974945+00:00
+research_papers,https://arxiv.org/abs/2611.26525v1,Taegyu Kim,person,,,0,unmatched,none,2026-11-22T05:31:04.975018+00:00
+research_papers,https://arxiv.org/abs/2611.26525v1,Peng Liu,person,,,0,unmatched,none,2026-11-22T05:31:04.975087+00:00
+news,https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure,Anthropic,company,company_anthropic,Anthropic,100,auto_matched,exact,2026-11-22T05:31:04.976012+00:00
+news,https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure,Claude,product,product_claude,Claude,100,auto_matched,exact,2026-11-22T05:31:04.976829+00:00
+news,https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure,Hayden Field,person,,,0,unmatched,none,2026-11-22T05:31:04.976903+00:00
+news,https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure,The Verge,organization,,,54.0,unmatched,none,2026-11-22T05:31:04.977493+00:00
+news,https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure,Nasdaq,organization,,,60.0,unmatched,none,2026-11-22T05:31:04.978081+00:00
+news,https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai,Chess.com,company,,,60.0,unmatched,none,2026-11-22T05:31:04.978648+00:00
+news,https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai,Gambit,product,,,60.0,unmatched,none,2026-11-22T05:31:04.979250+00:00
+news,https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai,Classic Games,product,,,60.0,unmatched,none,2026-11-22T05:31:04.979827+00:00
+news,https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai,AI,technology,,,0,unmatched,none,2026-11-22T05:31:04.979879+00:00
+news,https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai,Martin,other,,,0,unmatched,none,2026-11-22T05:31:04.979940+00:00
+news,https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai,Garry Kasparov,person,,,0,unmatched,none,2026-11-22T05:31:04.979994+00:00
+news,https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai,IBM’s Deep Blue,product,,,60.0,unmatched,none,2026-11-22T05:31:04.980687+00:00
+jobs,https://himalayas.app/companies/higharc/jobs/ux-designer-6727713959?utm_source=api,Higharc,company,,,60.0,unmatched,none,2026-11-22T05:31:04.982706+00:00
+jobs,https://himalayas.app/companies/higharc/jobs/ux-designer-6727713959?utm_source=api,Autodesk,company,company_autodesk,Autodesk,100,auto_matched,exact,2026-11-22T05:31:04.983303+00:00
+jobs,https://himalayas.app/companies/higharc/jobs/ux-designer-6727713959?utm_source=api,Electronic Arts,company,,,60.0,unmatched,none,2026-11-22T05:31:04.984314+00:00
+jobs,https://himalayas.app/companies/higharc/jobs/ux-designer-6727713959?utm_source=api,Nike,company,,,51.43,unmatched,none,2026-11-22T05:31:04.984956+00:00
+jobs,https://himalayas.app/companies/higharc/jobs/ux-designer-6727713959?utm_source=api,Apple,company,company_apple,Apple,100,auto_matched,exact,2026-11-22T05:31:04.985610+00:00
+jobs,https://himalayas.app/companies/higharc/jobs/ux-designer-6727713959?utm_source=api,Revit,technology,,,0,unmatched,none,2026-11-22T05:31:04.985698+00:00
+jobs,https://himalayas.app/companies/higharc/jobs/ux-designer-6727713959?utm_source=api,Rhino,technology,,,0,unmatched,none,2026-11-22T05:31:04.985755+00:00
+jobs,https://himalayas.app/companies/higharc/jobs/ux-designer-6727713959?utm_source=api,SketchUp,technology,,,0,unmatched,none,2026-11-22T05:31:04.985804+00:00
+jobs,https://himalayas.app/companies/higharc/jobs/ux-designer-6727713959?utm_source=api,Unity,technology,,,0,unmatched,none,2026-11-22T05:31:04.985853+00:00
+jobs,https://himalayas.app/companies/higharc/jobs/ux-designer-6727713959?utm_source=api,Three.js,technology,,,0,unmatched,none,2026-11-22T05:31:04.985903+00:00
+jobs,https://himalayas.app/companies/higharc/jobs/ux-designer-6727713959?utm_source=api,UX Designer,other,,,0,unmatched,none,2026-11-22T05:31:04.985952+00:00
+jobs,https://himalayas.app/companies/madrivo/jobs/senior-account-executive?utm_source=api,Madrivo,company,,,60.0,unmatched,none,2026-11-22T05:31:04.986535+00:00
+jobs,https://himalayas.app/companies/madrivo/jobs/senior-account-executive?utm_source=api,MoneyGeek,company,,,60.0,unmatched,none,2026-11-22T05:31:04.987080+00:00
+jobs,https://himalayas.app/companies/madrivo/jobs/senior-account-executive?utm_source=api,Doug Jones,person,,,0,unmatched,none,2026-11-22T05:31:04.987133+00:00
+jobs,https://himalayas.app/companies/madrivo/jobs/senior-account-executive?utm_source=api,Dan Schuessler,person,,,0,unmatched,none,2026-11-22T05:31:04.987183+00:00
+jobs,https://himalayas.app/companies/madrivo/jobs/senior-account-executive?utm_source=api,ABUV Media,organization,,,60.0,unmatched,none,2026-11-22T05:31:04.987780+00:00
+jobs,https://himalayas.app/companies/hire-hangar/jobs/principal-solutions-engineer-4312813094?utm_source=api,Hire Hangar,company,,,54.0,unmatched,none,2026-11-22T05:31:04.988355+00:00
+jobs,https://himalayas.app/companies/hire-hangar/jobs/principal-solutions-engineer-4312813094?utm_source=api,AWS,technology,,,0,unmatched,none,2026-11-22T05:31:04.988405+00:00
+jobs,https://himalayas.app/companies/hire-hangar/jobs/principal-solutions-engineer-4312813094?utm_source=api,Azure,technology,,,0,unmatched,none,2026-11-22T05:31:04.988454+00:00
+jobs,https://himalayas.app/companies/hire-hangar/jobs/principal-solutions-engineer-4312813094?utm_source=api,GCP,technology,,,0,unmatched,none,2026-11-22T05:31:04.988503+00:00
+jobs,https://himalayas.app/companies/hire-hangar/jobs/principal-solutions-engineer-4312813094?utm_source=api,Python,technology,,,0,unmatched,none,2026-11-22T05:31:04.988550+00:00
+jobs,https://himalayas.app/companies/hire-hangar/jobs/principal-solutions-engineer-4312813094?utm_source=api,PowerShell,technology,,,0,unmatched,none,2026-11-22T05:31:04.988597+00:00
+jobs,https://himalayas.app/companies/hire-hangar/jobs/principal-solutions-engineer-4312813094?utm_source=api,Terraform,technology,,,0,unmatched,none,2026-11-22T05:31:04.988649+00:00
+jobs,https://himalayas.app/companies/hire-hangar/jobs/principal-solutions-engineer-4312813094?utm_source=api,Slack,technology,,,0,unmatched,none,2026-11-22T05:31:04.988696+00:00
+jobs,https://himalayas.app/companies/hire-hangar/jobs/principal-solutions-engineer-4312813094?utm_source=api,Zoom,technology,,,0,unmatched,none,2026-11-22T05:31:04.988742+00:00
+jobs,https://himalayas.app/companies/hire-hangar/jobs/principal-solutions-engineer-4312813094?utm_source=api,Google Workspace,technology,,,0,unmatched,none,2026-11-22T05:31:04.988791+00:00
+jobs,https://himalayas.app/companies/hire-hangar/jobs/principal-solutions-engineer-4312813094?utm_source=api,Asana,technology,,,0,unmatched,none,2026-11-22T05:31:04.988838+00:00
+jobs,https://himalayas.app/companies/hire-hangar/jobs/principal-solutions-engineer-4312813094?utm_source=api,Enterprise storage,technology,,,0,unmatched,none,2026-11-22T05:31:04.988889+00:00
+jobs,https://himalayas.app/companies/hire-hangar/jobs/principal-solutions-engineer-4312813094?utm_source=api,Identity and governance frameworks,technology,,,0,unmatched,none,2026-11-22T05:31:04.988946+00:00
+jobs,https://himalayas.app/companies/hire-hangar/jobs/principal-solutions-engineer-4312813094?utm_source=api,Metadata analysis,technology,,,0,unmatched,none,2026-11-22T05:31:04.988996+00:00
+jobs,https://himalayas.app/companies/hire-hangar/jobs/principal-solutions-engineer-4312813094?utm_source=api,Data classification,technology,,,0,unmatched,none,2026-11-22T05:31:04.989049+00:00
+jobs,https://himalayas.app/companies/hire-hangar/jobs/principal-solutions-engineer-4312813094?utm_source=api,Enterprise scanning technologies,technology,,,0,unmatched,none,2026-11-22T05:31:04.989099+00:00
+jobs,https://himalayas.app/companies/elvoro/jobs/ai-app-developer-chatgpt-claude-grok-connectors-elvoro-ltd?utm_source=api,Elvoro,company,,,54.0,unmatched,none,2026-11-22T05:31:04.989671+00:00
+jobs,https://himalayas.app/companies/elvoro/jobs/ai-app-developer-chatgpt-claude-grok-connectors-elvoro-ltd?utm_source=api,ChatGPT,product,product_chatgpt,ChatGPT,100,auto_matched,exact,2026-11-22T05:31:04.990279+00:00
+jobs,https://himalayas.app/companies/elvoro/jobs/ai-app-developer-chatgpt-claude-grok-connectors-elvoro-ltd?utm_source=api,Claude,product,product_claude,Claude,100,auto_matched,exact,2026-11-22T05:31:04.991019+00:00
+jobs,https://himalayas.app/companies/elvoro/jobs/ai-app-developer-chatgpt-claude-grok-connectors-elvoro-ltd?utm_source=api,Grok,product,product_grok,Grok,100,auto_matched,exact,2026-11-22T05:31:04.991652+00:00
+jobs,https://himalayas.app/companies/elvoro/jobs/ai-app-developer-chatgpt-claude-grok-connectors-elvoro-ltd?utm_source=api,OpenAI Apps SDK,technology,,,0,unmatched,none,2026-11-22T05:31:04.991719+00:00
+jobs,https://himalayas.app/companies/elvoro/jobs/ai-app-developer-chatgpt-claude-grok-connectors-elvoro-ltd?utm_source=api,Model Context Protocol (MCP),technology,,,0,unmatched,none,2026-11-22T05:31:04.991775+00:00
+jobs,https://himalayas.app/companies/elvoro/jobs/ai-app-developer-chatgpt-claude-grok-connectors-elvoro-ltd?utm_source=api,Stripe,technology,,,0,unmatched,none,2026-11-22T05:31:04.991822+00:00
+jobs,https://himalayas.app/companies/elvoro/jobs/ai-app-developer-chatgpt-claude-grok-connectors-elvoro-ltd?utm_source=api,OAuth 2.1,technology,,,0,unmatched,none,2026-11-22T05:31:04.991899+00:00
+jobs,https://himalayas.app/companies/elvoro/jobs/ai-app-developer-chatgpt-claude-grok-connectors-elvoro-ltd?utm_source=api,PKCE,technology,,,0,unmatched,none,2026-11-22T05:31:04.992021+00:00
+jobs,https://himalayas.app/companies/elvoro/jobs/ai-app-developer-chatgpt-claude-grok-connectors-elvoro-ltd?utm_source=api,SQL,technology,,,0,unmatched,none,2026-11-22T05:31:04.992072+00:00
+jobs,https://himalayas.app/companies/elvoro/jobs/ai-app-developer-chatgpt-claude-grok-connectors-elvoro-ltd?utm_source=api,Google Cloud Storage,technology,,,0,unmatched,none,2026-11-22T05:31:04.992122+00:00
+jobs,https://himalayas.app/companies/elvoro/jobs/ai-app-developer-chatgpt-claude-grok-connectors-elvoro-ltd?utm_source=api,Next.js,technology,,,0,unmatched,none,2026-11-22T05:31:04.992171+00:00
+jobs,https://himalayas.app/companies/elvoro/jobs/ai-app-developer-chatgpt-claude-grok-connectors-elvoro-ltd?utm_source=api,Python,technology,,,0,unmatched,none,2026-11-22T05:31:04.992218+00:00
+jobs,https://himalayas.app/companies/elvoro/jobs/ai-app-developer-chatgpt-claude-grok-connectors-elvoro-ltd?utm_source=api,REST APIs,technology,,,0,unmatched,none,2026-11-22T05:31:04.992267+00:00
+jobs,https://himalayas.app/companies/elvoro/jobs/ai-app-developer-chatgpt-claude-grok-connectors-elvoro-ltd?utm_source=api,HTML/CSS,technology,,,0,unmatched,none,2026-11-22T05:31:04.992316+00:00
+jobs,https://himalayas.app/companies/elvoro/jobs/ai-app-developer-chatgpt-claude-grok-connectors-elvoro-ltd?utm_source=api,TypeScript,technology,,,0,unmatched,none,2026-11-22T05:31:04.992364+00:00
+jobs,https://himalayas.app/companies/elvoro/jobs/ai-app-developer-chatgpt-claude-grok-connectors-elvoro-ltd?utm_source=api,React,technology,,,0,unmatched,none,2026-11-22T05:31:04.992411+00:00
+jobs,https://himalayas.app/companies/elvoro/jobs/ai-app-developer-chatgpt-claude-grok-connectors-elvoro-ltd?utm_source=api,Webhooks,technology,,,0,unmatched,none,2026-11-22T05:31:04.992458+00:00
+jobs,https://himalayas.app/companies/elvoro/jobs/ai-app-developer-chatgpt-claude-grok-connectors-elvoro-ltd?utm_source=api,Stripe Payments,technology,,,0,unmatched,none,2026-11-22T05:31:04.992509+00:00
+jobs,https://himalayas.app/companies/txone-networks/jobs/ot-cybersecurity-customer-support-engineer?utm_source=api,TXOne Networks,company,,,48.86,unmatched,none,2026-11-22T05:31:04.993139+00:00
+jobs,https://himalayas.app/companies/revolution-medicines/jobs/associate-director-portfolio-operations-excellence?utm_source=api,Revolution Medicines,company,,,57.0,unmatched,none,2026-11-22T05:31:04.993903+00:00
+jobs,https://himalayas.app/companies/revolution-medicines/jobs/associate-director-portfolio-operations-excellence?utm_source=api,RevMed,company,,,51.43,unmatched,none,2026-11-22T05:31:04.994481+00:00
+jobs,https://himalayas.app/companies/revolution-medicines/jobs/associate-director-portfolio-operations-excellence?utm_source=api,"Redwood City, CA",other,,,0,unmatched,none,2026-11-22T05:31:04.994535+00:00
+jobs,https://himalayas.app/companies/revolution-medicines/jobs/associate-director-portfolio-operations-excellence?utm_source=api,United States,other,,,0,unmatched,none,2026-11-22T05:31:04.994585+00:00
+jobs,https://himalayas.app/companies/revolution-medicines/jobs/associate-director-portfolio-operations-excellence?utm_source=api,Lean Six Sigma,technology,,,0,unmatched,none,2026-11-22T05:31:04.994635+00:00
+jobs,https://himalayas.app/companies/revolution-medicines/jobs/associate-director-portfolio-operations-excellence?utm_source=api,Certified Meeting Professional (CMP),technology,,,0,unmatched,none,2026-11-22T05:31:04.994687+00:00
+jobs,https://himalayas.app/companies/revolution-medicines/jobs/associate-director-portfolio-operations-excellence?utm_source=api,Himalayas,other,,,0,unmatched,none,2026-11-22T05:31:04.994736+00:00
+jobs,https://himalayas.app/companies/sachs-media/jobs/account-executive-tlh-fl?utm_source=api,Sachs Media,company,,,60.0,unmatched,none,2026-11-22T05:31:04.995319+00:00
+jobs,https://jobicy.com/jobs/163714-onboarding-manager-france,Apaleo,company,,,72.73,unmatched,none,2026-11-22T05:31:04.995905+00:00
+jobs,https://jobicy.com/jobs/163714-onboarding-manager-france,Rocketlane,technology,,,0,unmatched,none,2026-11-22T05:31:04.995961+00:00
+jobs,https://jobicy.com/jobs/163714-onboarding-manager-france,SaaS,technology,,,0,unmatched,none,2026-11-22T05:31:04.996009+00:00
+jobs,https://jobicy.com/jobs/163714-onboarding-manager-france,AI-powered infrastructure,technology,,,0,unmatched,none,2026-11-22T05:31:04.996093+00:00
+jobs,https://jobicy.com/jobs/163714-onboarding-manager-france,EGYM Wellpass,product,,,54.0,unmatched,none,2026-11-22T05:31:04.996746+00:00
+startups,https://www.ycombinator.com/companies/circuithub,CircuitHub,company,,,60.0,unmatched,none,2026-11-22T05:31:04.997285+00:00
+startups,https://www.ycombinator.com/companies/circuithub,The Grid,technology,,,0,unmatched,none,2026-11-22T05:31:04.997335+00:00
+startups,https://www.ycombinator.com/companies/circuithub,Tesla,company,,,54.0,unmatched,none,2026-11-22T05:31:04.997938+00:00
+startups,https://www.ycombinator.com/companies/circuithub,NASA,company,,,60.0,unmatched,none,2026-11-22T05:31:04.998508+00:00
+startups,https://www.ycombinator.com/companies/circuithub,Zipline,company,,,50.0,unmatched,none,2026-11-22T05:31:04.999044+00:00
+startups,https://www.ycombinator.com/companies/the-muse,The Muse,company,,,51.43,unmatched,none,2026-11-22T05:31:04.999598+00:00
+startups,https://www.ycombinator.com/companies/hackpad,HackPad,company,,,45.0,unmatched,none,2026-11-22T05:31:05.000141+00:00
+startups,https://www.ycombinator.com/companies/gusto,Gusto,company,,,60.0,unmatched,none,2026-11-22T05:31:05.000697+00:00
+startups,https://www.ycombinator.com/companies/gusto,ZenPayroll,other,,,0,unmatched,none,2026-11-22T05:31:05.000746+00:00
+startups,https://www.ycombinator.com/companies/gusto,payroll,technology,,,0,unmatched,none,2026-11-22T05:31:05.000801+00:00
+startups,https://www.ycombinator.com/companies/gusto,benefits,technology,,,0,unmatched,none,2026-11-22T05:31:05.000848+00:00
+startups,https://www.ycombinator.com/companies/gusto,HR,technology,,,0,unmatched,none,2026-11-22T05:31:05.000894+00:00
+startups,https://www.ycombinator.com/companies/gusto,health insurance,product,,,67.5,unmatched,none,2026-11-22T05:31:05.001513+00:00
+startups,https://www.ycombinator.com/companies/gusto,401(k) accounts,product,,,45.0,unmatched,none,2026-11-22T05:31:05.002135+00:00
+startups,https://www.ycombinator.com/companies/familyleaf,FamilyLeaf,startup,,,60.0,unmatched,none,2026-11-22T05:31:05.002668+00:00
+startups,https://www.ycombinator.com/companies/familyleaf,"San Francisco, CA, USA",other,,,0,unmatched,none,2026-11-22T05:31:05.002722+00:00
+products,https://harpd.com/rank/github-copilot/,GitHub Copilot,product,product_githubcopilot,GitHub Copilot,100,auto_matched,exact,2026-11-22T05:31:05.003290+00:00
+products,https://harpd.com/rank/github-copilot/,GitHub,organization,,,60.0,unmatched,none,2026-11-22T05:31:05.003880+00:00
+products,https://harpd.com/rank/windsurf/,Windsurf,product,,,53.33,unmatched,none,2026-11-22T05:31:05.004446+00:00
+products,https://harpd.com/rank/replit/,Replit,product,product_replitai,Replit AI,90.0,review_required,fuzzy,2026-11-22T05:31:05.005021+00:00
+products,https://harpd.com/rank/lovable/,Lovable,product,,,62.18,unmatched,none,2026-11-22T05:31:05.005659+00:00
+products,https://harpd.com/rank/bolt/,Bolt,product,,,60.0,unmatched,none,2026-11-22T05:31:05.006276+00:00
+products,https://harpd.com/rank/vercel/,Vercel,product,,,54.0,unmatched,none,2026-11-22T05:31:05.006855+00:00
+products,https://harpd.com/rank/netlify/,Netlify,product,,,51.43,unmatched,none,2026-11-22T05:31:05.007514+00:00
+products,https://harpd.com/rank/cloudflare/,Cloudflare,product,,,65.45,unmatched,none,2026-11-22T05:31:05.008097+00:00
+products,https://harpd.com/rank/supabase/,Supabase,product,,,51.43,unmatched,none,2026-11-22T05:31:05.008666+00:00
+products,https://harpd.com/rank/firebase/,Firebase,product,,,48.0,unmatched,none,2026-11-22T05:31:05.009229+00:00
+research_papers,https://arxiv.org/abs/2611.26592v1,Terence D. Agbeyegbe,person,,,0,unmatched,none,2026-11-22T05:31:05.009283+00:00
+research_papers,https://arxiv.org/abs/2611.26592v1,Toneukarin G. Agbeyegbe,person,,,0,unmatched,none,2026-11-22T05:31:05.009337+00:00
+research_papers,https://arxiv.org/abs/2611.26592v1,Claude Haiku 4.5,product,product_claude,Claude,90.0,review_required,fuzzy,2026-11-22T05:31:05.010028+00:00
+research_papers,https://arxiv.org/abs/2611.26592v1,GSM8K,other,,,0,unmatched,none,2026-11-22T05:31:05.010082+00:00
+research_papers,https://arxiv.org/abs/2611.26592v1,AIME,other,,,0,unmatched,none,2026-11-22T05:31:05.010131+00:00
+research_papers,https://arxiv.org/abs/2611.26592v1,Ville's inequality,other,,,0,unmatched,none,2026-11-22T05:31:05.010185+00:00
+research_papers,https://arxiv.org/abs/2611.26592v1,e-process,other,,,0,unmatched,none,2026-11-22T05:31:05.010235+00:00
+research_papers,https://arxiv.org/abs/2611.26592v1,random-effects / intraclass-correlation structure,other,,,0,unmatched,none,2026-11-22T05:31:05.010291+00:00
+research_papers,https://arxiv.org/abs/2611.26592v1,Self‑consistency certification,other,,,0,unmatched,none,2026-11-22T05:31:05.010354+00:00
+research_papers,https://arxiv.org/abs/2611.26592v1,prompt‑level e-process,other,,,0,unmatched,none,2026-11-22T05:31:05.010407+00:00
+research_papers,https://arxiv.org/abs/2611.26592v1,latent state,other,,,0,unmatched,none,2026-11-22T05:31:05.010457+00:00
+research_papers,https://arxiv.org/abs/2611.26592v1,"exchangeable, equi‑correlated increments",other,,,0,unmatched,none,2026-11-22T05:31:05.010512+00:00
+research_papers,https://arxiv.org/abs/2611.26557v1,MM-SystemOneBias,technology,,,0,unmatched,none,2026-11-22T05:31:05.010563+00:00
+research_papers,https://arxiv.org/abs/2611.26557v1,Paper: MM-SystemOneBias: Evaluating Bias in Multimodal Jev-Style System One Decision Models,other,,,0,unmatched,none,2026-11-22T05:31:05.010625+00:00
+research_papers,https://arxiv.org/abs/2611.26557v1,Jinzhe Li,person,,,0,unmatched,none,2026-11-22T05:31:05.010675+00:00
+research_papers,https://arxiv.org/abs/2611.26557v1,Qi Wang,person,,,0,unmatched,none,2026-11-22T05:31:05.010726+00:00
+research_papers,https://arxiv.org/abs/2611.26557v1,Dandan Guo,person,,,0,unmatched,none,2026-11-22T05:31:05.010776+00:00
+research_papers,https://arxiv.org/abs/2611.26557v1,Li Liu,person,,,0,unmatched,none,2026-11-22T05:31:05.010826+00:00
+research_papers,https://arxiv.org/abs/2611.26557v1,Yuan Wu,person,,,0,unmatched,none,2026-11-22T05:31:05.010874+00:00
+research_papers,https://arxiv.org/abs/2611.26557v1,Yi Chang,person,,,0,unmatched,none,2026-11-22T05:31:05.010923+00:00
+research_papers,https://arxiv.org/abs/2611.26557v1,Nine Public Datasets,other,,,0,unmatched,none,2026-11-22T05:31:05.010972+00:00
+research_papers,https://arxiv.org/abs/2611.26557v1,Eleven Task Scenarios,other,,,0,unmatched,none,2026-11-22T05:31:05.011020+00:00
+research_papers,https://arxiv.org/abs/2611.26557v1,Option Order,technology,,,0,unmatched,none,2026-11-22T05:31:05.011065+00:00
+research_papers,https://arxiv.org/abs/2611.26557v1,Option Label,technology,,,0,unmatched,none,2026-11-22T05:31:05.011110+00:00
+research_papers,https://arxiv.org/abs/2611.26509v1,GLiDE,product,,,64.12,unmatched,none,2026-11-22T05:31:05.011705+00:00
+research_papers,https://arxiv.org/abs/2611.26509v1,Qwen,technology,,,0,unmatched,none,2026-11-22T05:31:05.011769+00:00
+research_papers,https://arxiv.org/abs/2611.26509v1,Hugging Face,organization,company_huggingface,Hugging Face,100,auto_matched,exact,2026-11-22T05:31:05.012365+00:00
+research_papers,https://arxiv.org/abs/2611.26509v1,DMTWO,product,,,48.86,unmatched,none,2026-11-22T05:31:05.012950+00:00
+research_papers,https://arxiv.org/abs/2611.26509v1,Sahibzada Allahyar,person,,,0,unmatched,none,2026-11-22T05:31:05.013002+00:00
+research_papers,https://arxiv.org/abs/2611.26509v1,Julia White,person,,,0,unmatched,none,2026-11-22T05:31:05.013050+00:00
+research_papers,https://arxiv.org/abs/2611.26509v1,Dhruv Atreja,person,,,0,unmatched,none,2026-11-22T05:31:05.013099+00:00
+research_papers,https://arxiv.org/abs/2611.26509v1,George Hurn-Maloney,person,,,0,unmatched,none,2026-11-22T05:31:05.013150+00:00
+research_papers,https://arxiv.org/abs/2611.26509v1,Urchade Zaratiana,person,,,0,unmatched,none,2026-11-22T05:31:05.013200+00:00
+research_papers,https://arxiv.org/abs/2611.26475v1,Francesco Caporali,person,,,0,unmatched,none,2026-11-22T05:31:05.013248+00:00
+research_papers,https://arxiv.org/abs/2611.26475v1,Jason M. Altschuler,person,,,0,unmatched,none,2026-11-22T05:31:05.013299+00:00
+research_papers,https://arxiv.org/abs/2611.26475v1,Boris Hanin,person,,,0,unmatched,none,2026-11-22T05:31:05.013348+00:00
+research_papers,https://arxiv.org/abs/2611.26475v1,Critically Damped Polyak (CDP) stepsizes,technology,,,0,unmatched,none,2026-11-22T05:31:05.013403+00:00
+research_papers,https://arxiv.org/abs/2611.26475v1,Polyak rule,technology,,,0,unmatched,none,2026-11-22T05:31:05.013452+00:00
+research_papers,https://arxiv.org/abs/2611.26475v1,Sharpness-Aware Minimization (SAM),technology,,,0,unmatched,none,2026-11-22T05:31:05.013503+00:00
+research_papers,https://arxiv.org/abs/2611.26475v1,Overparameterized neural networks,technology,,,0,unmatched,none,2026-11-22T05:31:05.013552+00:00
+research_papers,https://arxiv.org/abs/2611.26475v1,Large Language Models (LLMs),technology,,,0,unmatched,none,2026-11-22T05:31:05.013604+00:00
+research_papers,https://arxiv.org/abs/2611.26475v1,Teacher‑student networks,technology,,,0,unmatched,none,2026-11-22T05:31:05.013656+00:00
+research_papers,https://arxiv.org/abs/2611.26475v1,Gradient descent,technology,,,0,unmatched,none,2026-11-22T05:31:05.013705+00:00
+research_papers,https://arxiv.org/abs/2611.26475v1,Normalized gradient descent,technology,,,0,unmatched,none,2026-11-22T05:31:05.013768+00:00
+research_papers,https://arxiv.org/abs/2611.26475v1,Sharpness,technology,,,0,unmatched,none,2026-11-22T05:31:05.013818+00:00
+research_papers,https://arxiv.org/abs/2611.26464v1,Monte Carlo Pass Search (MCPS),technology,,,0,unmatched,none,2026-11-22T05:31:05.013871+00:00
+research_papers,https://arxiv.org/abs/2611.26464v1,Serie A 2025/26 matches,other,,,0,unmatched,none,2026-11-22T05:31:05.013922+00:00
+research_papers,https://arxiv.org/abs/2611.26464v1,Andrew Kang,person,,,0,unmatched,none,2026-11-22T05:31:05.013972+00:00
+research_papers,https://arxiv.org/abs/2611.26464v1,3D ball physics,technology,,,0,unmatched,none,2026-11-22T05:31:05.014026+00:00
+research_papers,https://arxiv.org/abs/2611.26464v1,generative model of all 22 players,technology,,,0,unmatched,none,2026-11-22T05:31:05.014077+00:00
+research_papers,https://arxiv.org/abs/2611.26464v1,keeper's come-or-stay decision,technology,,,0,unmatched,none,2026-11-22T05:31:05.014126+00:00
+research_papers,https://arxiv.org/abs/2611.26464v1,Player-to-Touch model,technology,,,0,unmatched,none,2026-11-22T05:31:05.014173+00:00
+research_papers,https://arxiv.org/abs/2611.26464v1,value model,technology,,,0,unmatched,none,2026-11-22T05:31:05.014218+00:00
+research_papers,https://arxiv.org/abs/2611.26464v1,xG,technology,,,0,unmatched,none,2026-11-22T05:31:05.014266+00:00
+research_papers,https://arxiv.org/abs/2611.26464v1,counterfactual deliveries,technology,,,0,unmatched,none,2026-11-22T05:31:05.014315+00:00
+research_papers,https://arxiv.org/abs/2611.26464v1,counterfactual set-ups,technology,,,0,unmatched,none,2026-11-22T05:31:05.014363+00:00
+research_papers,https://arxiv.org/abs/2611.26464v1,world model,technology,,,0,unmatched,none,2026-11-22T05:31:05.014411+00:00
+research_papers,https://arxiv.org/abs/2611.26450v1,IBM,company,,,60.0,unmatched,none,2026-11-22T05:31:05.015019+00:00
+research_papers,https://arxiv.org/abs/2611.26450v1,Alibaba,company,,,61.54,unmatched,none,2026-11-22T05:31:05.015600+00:00
+research_papers,https://arxiv.org/abs/2611.26450v1,IBM Granite 4.2 3B,product,,,51.43,unmatched,none,2026-11-22T05:31:05.016340+00:00
+research_papers,https://arxiv.org/abs/2611.26450v1,Alibaba Qwen 3.5 4B,product,product_runwaygen,Runway Gen-3,85.5,review_required,fuzzy,2026-11-22T05:31:05.017045+00:00
+research_papers,https://arxiv.org/abs/2611.26450v1,A100,technology,,,0,unmatched,none,2026-11-22T05:31:05.017095+00:00
+research_papers,https://arxiv.org/abs/2611.26450v1,Tanmay Sah,person,,,0,unmatched,none,2026-11-22T05:31:05.017146+00:00
+research_papers,https://arxiv.org/abs/2611.26450v1,Mellin‑GLU,technology,,,0,unmatched,none,2026-11-22T05:31:05.017197+00:00
+research_papers,https://arxiv.org/abs/2611.26450v1,SwiGLU,technology,,,0,unmatched,none,2026-11-22T05:31:05.017244+00:00
+research_papers,https://arxiv.org/abs/2611.26450v1,GeGLU,technology,,,0,unmatched,none,2026-11-22T05:31:05.017291+00:00
+research_papers,https://arxiv.org/abs/2611.26450v1,RMSNorm,technology,,,0,unmatched,none,2026-11-22T05:31:05.017341+00:00
+research_papers,https://arxiv.org/abs/2611.26450v1,Chebyshev Indefinite‑RoPE,technology,,,0,unmatched,none,2026-11-22T05:31:05.017392+00:00
+research_papers,https://arxiv.org/abs/2611.26450v1,SiLU‑antisymmetric GatedDeltaNet,technology,,,0,unmatched,none,2026-11-22T05:31:05.017443+00:00
+research_papers,https://arxiv.org/abs/2611.26444v1,Mind2Act World,product,,,60.0,unmatched,none,2026-11-22T05:31:05.018034+00:00
+research_papers,https://arxiv.org/abs/2611.26444v1,Mind2Act,other,,,0,unmatched,none,2026-11-22T05:31:05.018084+00:00
+research_papers,https://arxiv.org/abs/2611.26444v1,Mind view,other,,,0,unmatched,none,2026-11-22T05:31:05.018132+00:00
+research_papers,https://arxiv.org/abs/2611.26444v1,Act view,other,,,0,unmatched,none,2026-11-22T05:31:05.018180+00:00
+research_papers,https://arxiv.org/abs/2611.26444v1,Vision-language-action models (VLAs),technology,,,0,unmatched,none,2026-11-22T05:31:05.018229+00:00
+research_papers,https://arxiv.org/abs/2611.26444v1,World-action models (WAMs),technology,,,0,unmatched,none,2026-11-22T05:31:05.018276+00:00
+research_papers,https://arxiv.org/abs/2611.26444v1,Multimodal agents,technology,,,0,unmatched,none,2026-11-22T05:31:05.018324+00:00
+research_papers,https://arxiv.org/abs/2611.26444v1,Embodied intelligence,technology,,,0,unmatched,none,2026-11-22T05:31:05.018372+00:00
+research_papers,https://arxiv.org/abs/2611.26444v1,Closed-loop tasks,technology,,,0,unmatched,none,2026-11-22T05:31:05.018421+00:00
+research_papers,https://arxiv.org/abs/2611.26444v1,Environmental feedback,technology,,,0,unmatched,none,2026-11-22T05:31:05.018469+00:00
+research_papers,https://arxiv.org/abs/2611.26444v1,Simulation environment,technology,,,0,unmatched,none,2026-11-22T05:31:05.018517+00:00
+research_papers,https://arxiv.org/abs/2611.26444v1,Diagnostic harness,technology,,,0,unmatched,none,2026-11-22T05:31:05.018564+00:00
+research_papers,https://arxiv.org/abs/2611.26437v1,Asuka-FM,product,,,45.0,unmatched,none,2026-11-22T05:31:05.019125+00:00
+research_papers,https://arxiv.org/abs/2611.26437v1,Diffusion Transformer (DiT),technology,,,0,unmatched,none,2026-11-22T05:31:05.019178+00:00
+research_papers,https://arxiv.org/abs/2611.26437v1,Variational Autoencoder (VAE),technology,,,0,unmatched,none,2026-11-22T05:31:05.019228+00:00
+research_papers,https://arxiv.org/abs/2611.26437v1,NVIDIA RTX 4090,technology,,,0,unmatched,none,2026-11-22T05:31:05.019279+00:00
+research_papers,https://arxiv.org/abs/2611.26437v1,AdaLN-free dual‑stream DiT backbone,technology,,,0,unmatched,none,2026-11-22T05:31:05.019333+00:00
+research_papers,https://arxiv.org/abs/2611.26437v1,Sparse‑Dense Residual Fusion (SPRINT),technology,,,0,unmatched,none,2026-11-22T05:31:05.019394+00:00
+research_papers,https://arxiv.org/abs/2611.26437v1,Rotary Position Embeddings (RoPE),technology,,,0,unmatched,none,2026-11-22T05:31:05.019447+00:00
+research_papers,https://arxiv.org/abs/2611.26437v1,Patch Detailer Head,technology,,,0,unmatched,none,2026-11-22T05:31:05.019497+00:00
+research_papers,https://arxiv.org/abs/2611.26437v1,Velocity regression,technology,,,0,unmatched,none,2026-11-22T05:31:05.019545+00:00
+research_papers,https://arxiv.org/abs/2611.26437v1,Frontier text‑to‑image foundation models,organization,,,55.38,unmatched,none,2026-11-22T05:31:05.020609+00:00
+research_papers,https://arxiv.org/abs/2611.26437v1,Víctor Rodrigo González,person,,,0,unmatched,none,2026-11-22T05:31:05.020665+00:00
+research_papers,https://arxiv.org/abs/2611.26437v1,Pablo M. Olmos,person,,,0,unmatched,none,2026-11-22T05:31:05.020716+00:00
+news,https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/,Nvidia,company,company_nvidia,NVIDIA,100,auto_matched,exact,2026-11-22T05:31:05.021303+00:00
+news,https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/,Jensen Huang,person,,,0,unmatched,none,2026-11-22T05:31:05.021355+00:00
+news,https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/,Colette Kress,person,,,0,unmatched,none,2026-11-22T05:31:05.021406+00:00
+news,https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/,Elon Musk,person,,,0,unmatched,none,2026-11-22T05:31:05.021453+00:00
+news,https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/,Trump administration,organization,,,64.29,unmatched,none,2026-11-22T05:31:05.022521+00:00
+news,https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/,Biden administration,organization,,,64.29,unmatched,none,2026-11-22T05:31:05.023267+00:00
+news,https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/,TechCrunch,organization,,,57.0,unmatched,none,2026-11-22T05:31:05.023830+00:00
+news,https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/,H200 chip,product,,,42.35,unmatched,none,2026-11-22T05:31:05.024427+00:00
+news,https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/,China,other,,,0,unmatched,none,2026-11-22T05:31:05.024477+00:00
+news,https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/,Petition,other,,,0,unmatched,none,2026-11-22T05:31:05.024530+00:00
+news,https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/,OpenAI,organization,company_openai,OpenAI,100,auto_matched,exact,2026-11-22T05:31:05.025131+00:00
+news,https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/,Tim,person,,,0,unmatched,none,2026-11-22T05:31:05.025184+00:00
+news,https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/,Anthony,person,,,0,unmatched,none,2026-11-22T05:31:05.025241+00:00
+news,https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/,OpenAI,company,company_openai,OpenAI,100,auto_matched,exact,2026-11-22T05:31:05.025821+00:00
+news,https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/,Board members,other,,,0,unmatched,none,2026-11-22T05:31:05.025873+00:00
+news,https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/,Earnings report,other,,,0,unmatched,none,2026-11-22T05:31:05.025926+00:00
+news,https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/,Investigation,other,,,0,unmatched,none,2026-11-22T05:31:05.025977+00:00
+news,https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/,Tech billionaire,other,,,0,unmatched,none,2026-11-22T05:31:05.026025+00:00
+news,https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/,Chips,product,,,57.0,unmatched,none,2026-11-22T05:31:05.026632+00:00
+news,https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/,Control,other,,,0,unmatched,none,2026-11-22T05:31:05.026683+00:00
+news,https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/,Instinct,company,,,55.56,unmatched,none,2026-11-22T05:31:05.027252+00:00
+news,https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/,Ask Proxy,company,,,72.0,unmatched,none,2026-11-22T05:31:05.027842+00:00
+news,https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/,Caddy,company,,,60.0,unmatched,none,2026-11-22T05:31:05.028431+00:00
+news,https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/,Comma,company,,,64.12,unmatched,none,2026-11-22T05:31:05.028992+00:00
+news,https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/,Fambot,company,,,50.0,unmatched,none,2026-11-22T05:31:05.029568+00:00
+news,https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/,Folk,company,,,45.0,unmatched,none,2026-11-22T05:31:05.030164+00:00
+news,https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/,Haven,company,,,54.0,unmatched,none,2026-11-22T05:31:05.030729+00:00
+news,https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/,Iris,product,,,60.0,unmatched,none,2026-11-22T05:31:05.031340+00:00
+news,https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/,Martin,product,,,68.4,unmatched,none,2026-11-22T05:31:05.031955+00:00
+news,https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/,Maverick,product,,,51.43,unmatched,none,2026-11-22T05:31:05.032531+00:00
+news,https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/,Miso,product,,,77.14,unmatched,none,2026-11-22T05:31:05.033126+00:00
+news,https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/,Ohai,product,,,67.5,unmatched,none,2026-11-22T05:31:05.033732+00:00
+news,https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/,Orbits,product,,,60.0,unmatched,none,2026-11-22T05:31:05.034695+00:00
+news,https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/,Pally,product,,,60.0,unmatched,none,2026-11-22T05:31:05.035279+00:00
+news,https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/,Poke,product,,,60.0,unmatched,none,2026-11-22T05:31:05.035878+00:00
+news,https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/,Rene,product,,,67.5,unmatched,none,2026-11-22T05:31:05.036465+00:00
+news,https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/,Hermes Agent,technology,,,0,unmatched,none,2026-11-22T05:31:05.036516+00:00
+news,https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/,Skye,product,,,45.0,unmatched,none,2026-11-22T05:31:05.037099+00:00
+news,https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/,Stanley,product,,,69.23,unmatched,none,2026-11-22T05:31:05.037661+00:00
+news,https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/,Szn,product,,,45.0,unmatched,none,2026-11-22T05:31:05.038285+00:00
+news,https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/,Tab,product,product_stablediffusion,Stable Diffusion,90.0,review_required,fuzzy,2026-11-22T05:31:05.038882+00:00
+news,https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/,Tomo,product,,,57.0,unmatched,none,2026-11-22T05:31:05.039469+00:00
+news,https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/,Town,product,,,67.5,unmatched,none,2026-11-22T05:31:05.040065+00:00
+news,https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/,Underdog,product,,,45.0,unmatched,none,2026-11-22T05:31:05.040634+00:00
+news,https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/,Wajo,company,,,51.43,unmatched,none,2026-11-22T05:31:05.041220+00:00
+news,https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/,Fo,product,,,60.0,unmatched,none,2026-11-22T05:31:05.041922+00:00
+news,https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/,Signull Labs,company,,,60.0,unmatched,none,2026-11-22T05:31:05.042539+00:00
+news,https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/,Andreessen Horowitz,company,,,54.0,unmatched,none,2026-11-22T05:31:05.043244+00:00
+news,https://www.theverge.com/tech/1039554/un-regulations-killer-robots,United Nations,organization,,,60.0,unmatched,none,2026-11-22T05:31:05.043861+00:00
+news,https://www.theverge.com/tech/1039554/un-regulations-killer-robots,Geneva,other,,,0,unmatched,none,2026-11-22T05:31:05.043912+00:00
+news,https://www.theverge.com/tech/1039554/un-regulations-killer-robots,International Committee of the Red Cross,organization,,,60.0,unmatched,none,2026-11-22T05:31:05.044903+00:00
+news,https://www.theverge.com/tech/1039554/un-regulations-killer-robots,U.N. secretary-general,person,,,0,unmatched,none,2026-11-22T05:31:05.044961+00:00
+news,https://www.theverge.com/tech/1039554/un-regulations-killer-robots,Pope Leo,person,,,0,unmatched,none,2026-11-22T05:31:05.045012+00:00
+news,https://www.theverge.com/tech/1039554/un-regulations-killer-robots,Russia,other,,,0,unmatched,none,2026-11-22T05:31:05.045059+00:00
+news,https://www.theverge.com/tech/1039554/un-regulations-killer-robots,Israel,other,,,0,unmatched,none,2026-11-22T05:31:05.045105+00:00
+news,https://www.theverge.com/tech/1039554/un-regulations-killer-robots,United States,other,,,0,unmatched,none,2026-11-22T05:31:05.045182+00:00
+news,https://www.theverge.com/tech/1039554/un-regulations-killer-robots,NPR,organization,,,60.0,unmatched,none,2026-11-22T05:31:05.045783+00:00
+jobs,https://himalayas.app/companies/vsp-vision/jobs/credentialing-specialist?utm_source=api,VSP Vision,company,,,51.3,unmatched,none,2026-11-22T05:31:05.046427+00:00
+jobs,https://himalayas.app/companies/vsp-vision/jobs/credentialing-specialist?utm_source=api,Credentialing Specialist,other,,,0,unmatched,none,2026-11-22T05:31:05.046480+00:00
+jobs,https://himalayas.app/companies/vsp-vision/jobs/credentialing-specialist?utm_source=api,CVO partner’s system,technology,,,0,unmatched,none,2026-11-22T05:31:05.046538+00:00
+jobs,https://himalayas.app/companies/vsp-vision/jobs/credentialing-specialist?utm_source=api,Credentialing Committee,organization,,,60.0,unmatched,none,2026-11-22T05:31:05.047282+00:00
+jobs,https://himalayas.app/companies/vsp-vision/jobs/credentialing-specialist?utm_source=api,Legal department,organization,,,67.5,unmatched,none,2026-11-22T05:31:05.047938+00:00
+jobs,https://himalayas.app/companies/vsp-vision/jobs/credentialing-specialist?utm_source=api,Dispute Resolution Process,other,,,0,unmatched,none,2026-11-22T05:31:05.047994+00:00
+jobs,https://himalayas.app/companies/vsp-vision/jobs/credentialing-specialist?utm_source=api,Los Angeles County Fair Chance Ordinance,other,,,0,unmatched,none,2026-11-22T05:31:05.048047+00:00
+jobs,https://himalayas.app/companies/vsp-vision/jobs/credentialing-specialist?utm_source=api,California Fair Chance Act,other,,,0,unmatched,none,2026-11-22T05:31:05.048100+00:00

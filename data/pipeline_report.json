@@ -1,0 +1,50 @@
+{
+  "pipeline": "FrontierAtlas",
+  "executed_at": "2026-11-22T04:52:03.527450+00:00",
+  "total_steps": 8,
+  "successful_steps": 8,
+  "failed_steps": 0,
+  "total_duration_seconds": 34964.84,
+  "steps": [
+    {
+      "step": "Startup Collection",
+      "status": "success",
+      "duration_seconds": 1.97
+    },
+    {
+      "step": "Product Collection",
+      "status": "success",
+      "duration_seconds": 1.91
+    },
+    {
+      "step": "Research Paper Collection",
+      "status": "success",
+      "duration_seconds": 43.45
+    },
+    {
+      "step": "GitHub Repository Enrichment",
+      "status": "success",
+      "duration_seconds": 32393.4
+    },
+    {
+      "step": "AI News Collection",
+      "status": "success",
+      "duration_seconds": 94.72
+    },
+    {
+      "step": "AI Job Collection",
+      "status": "success",
+      "duration_seconds": 42.39
+    },
+    {
+      "step": "LLM Entity and Intelligence Extraction",
+      "status": "success",
+      "duration_seconds": 2386.75
+    },
+    {
+      "step": "Deterministic Entity Resolution",
+      "status": "success",
+      "duration_seconds": 0.22
+    }
+  ]
+}
