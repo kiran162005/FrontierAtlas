@@ -1,5 +1,18 @@
+# Environment and credentials
 .env
+.env.*
+
+# Python
 venv/
+.venv/
 __pycache__/
-*.pyc
-.env
+*.py[cod]
+
+# Test and cache files
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# IDE
+.vscode/
+.idea/
